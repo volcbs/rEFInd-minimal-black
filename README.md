@@ -39,15 +39,6 @@ menuentry "OSX" {
 
 Entries that are autodetected should also show the proper icons.
 
-### Background sizes
-
-If you find the background looks blurry it may be due to the included wallpaper
-being an incorrect resolution for your monitor. You can download the [original
-high quality wallpaper][wallpaper], resize it as appropriate, and replace the
-`background.png`.
-
-You can of course also choose your own background!
-
 ### Attribution
 
 The OS icons are from [Lightness for burg][icons] by [SWOriginal][icon-author].
